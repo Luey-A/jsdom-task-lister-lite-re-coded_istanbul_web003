@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
   // your code here
-});
 document.getElementsByTagName("input")[1].addEventListener("click", addNewTodo);
 
 });
